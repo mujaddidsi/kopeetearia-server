@@ -10,10 +10,10 @@
     </parent>
     <groupId>com.accenture</groupId>
     <artifactId>order-billing-ws</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>order-billing-ws</name>
-    <description>wahyu.perwira Kopeeteria API</description>
+    <description>Kopeeteria API</description>
     <properties>
         <java.version>11</java.version>
     </properties>
