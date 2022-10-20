@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.accenture</groupId>
     <artifactId>order-billing-ws</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>order-billing-ws</name>
     <description>Kopeeteria API</description>
@@ -51,6 +51,7 @@
     </dependencies>
 
     <build>
+        <finalName>order-billing-ws</finalName>
         <plugins>
             <plugin>
                 <!-- Build an executable JAR -->
