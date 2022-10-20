@@ -51,7 +51,6 @@
     </dependencies>
 
     <build>
-        <finalName>order-billing-ws</finalName>
         <plugins>
             <plugin>
                 <!-- Build an executable JAR -->
